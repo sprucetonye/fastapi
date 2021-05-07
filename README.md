@@ -1,0 +1,1 @@
+this API  is to perfect my Machine Learning in production using Flask and postgres to create a web recommended system for an ecommerce website.
